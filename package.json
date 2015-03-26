@@ -15,7 +15,9 @@
     "serve-favicon": "~2.2.0"
   },
   "devDependencies": {
+    "conventional-changelog": "0.0.16",
     "csv": "^0.4.1",
+    "redis": "^0.12.1",
     "underscore": "^1.8.2"
   }
 }
